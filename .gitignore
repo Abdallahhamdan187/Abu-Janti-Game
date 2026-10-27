@@ -1,0 +1,16 @@
+# Ignore everything at the top level by default
+/*
+
+# ...except these
+!/.gitignore
+!/README.md
+!/Assets/
+!/Packages/
+!/ProjectSettings/
+
+# Inside Assets, ignore everything except your scripts and scenes
+/Assets/*
+!/Assets/Scripts/
+!/Assets/Scripts.meta
+!/Assets/Scenes/
+!/Assets/Scenes.meta
