@@ -4,7 +4,7 @@ A single-player 3D taxi driving game built in **Unity** with **C#**. You play as
 
 > Built as the final project for the Game Engine and Scripting course at Al-Hussein Technical University (HTU).
 
-![alt text](image.png)
+![Abu Janti gameplay](docs/image.png)
 
 ## Gameplay
 

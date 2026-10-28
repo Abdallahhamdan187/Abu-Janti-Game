@@ -7,6 +7,7 @@
 !/Assets/
 !/Packages/
 !/ProjectSettings/
+!/docs/
 
 # Inside Assets, ignore everything except your scripts and scenes
 /Assets/*
